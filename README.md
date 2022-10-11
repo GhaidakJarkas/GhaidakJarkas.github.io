@@ -26,3 +26,75 @@ The first tutorial's goal was to get familiar with the fundamental concepts of D
 9- Pagination.
 
 ![](https://github.com/GhaidakJarkas/GhaidakJarkas.github.io/blob/main/images/Portfolio.JPG)
+
+
+# Project 2: Django for Everybody Course (University of Michigan).
+
+## Overview:
+
+I Followed this course which is provided from university of Michigan on Coursera paltform to get familiar with the fundamental concepts of The Django framework in an acadmic way, it is a specialization consists of four courses that covers the following concepts:
+
+1- Web application technologies and Django.
+
+2- Building web application in Django.
+
+3- Django features and libraries.
+
+4- Using Javascript, jQuery and Json in Django.
+
+![](https://github.com/GhaidakJarkas/GhaidakJarkas.github.io/blob/main/images/C.JPG)
+
+
+# [Project 3: Blango (Advanced Django: Building a Blog, Django Rest framework).](https://github.com/GhaidakJarkas/blango)
+
+## Overview
+
+Two courses on Coursera platform to cover advanced concepts in Django framework and Django Rest Framework as the following:
+
+### Building a Blog:
+
+1- Create custom filters and templates.
+
+2- Optimize performance through caching and optimizing database operations.
+
+3- Authenticate users with Google.
+
+![](https://github.com/GhaidakJarkas/GhaidakJarkas.github.io/blob/main/images/CB1.JPG)
+
+### Advanced Django: Introduction to Django Rest Framework:
+
+1- Build an API with Django Rest Framework.
+
+2- Use Postman to explore the API.
+
+3- Add functionality with serializers, viewsets, routers, authentication, and permissions.
+
+![](https://github.com/GhaidakJarkas/GhaidakJarkas.github.io/blob/main/images/CB2.JPG)
+
+
+# [Project 4: Simple TO DO app.](https://github.com/GhaidakJarkas/Simple-TODO)
+
+## Objectives:
+
+1- Practicing Django concepts.
+
+2- Practicing CRUD.
+
+![](https://github.com/GhaidakJarkas/GhaidakJarkas.github.io/blob/main/images/todo.jpg)
+
+
+# [Project 5: E-Commerce website.](https://github.com/GhaidakJarkas/E-commerce)
+
+## Objectives:
+
+1- Add to cart.
+
+2- Payment.
+
+3- Shipping.
+
+4- Anonymous user order using cookies.
+
+5- Javascript.
+
+![](https://github.com/GhaidakJarkas/GhaidakJarkas.github.io/blob/main/images/ecommerce.jpg)
