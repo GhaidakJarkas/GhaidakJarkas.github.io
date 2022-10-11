@@ -1,4 +1,4 @@
-# Ghadiak_Django_Portfolio
+# Ghadiak Django Portfolio
 My journey in learning and mastering the Django framework.
 
 
