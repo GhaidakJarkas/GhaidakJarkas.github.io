@@ -25,7 +25,7 @@ The first tutorial's goal was to get familiar with the fundamental concepts of D
 
 9- Pagination.
 
-![](https://github.com/GhaidakJarkas/GhaidakJarkas.github.io/blob/main/images/Portfolio.JPG)
+![](/images/Portfolio.JPG)
 
 
 # Project 2: Django for Everybody Course (University of Michigan).
@@ -42,7 +42,7 @@ I Followed this course which is provided from university of Michigan on Coursera
 
 4- Using Javascript, jQuery and Json in Django.
 
-![](https://github.com/GhaidakJarkas/GhaidakJarkas.github.io/blob/main/images/C.JPG)
+![](/images/C.JPG)
 
 
 # [Project 3: Blango (Advanced Django: Building a Blog, Django Rest framework).](https://github.com/GhaidakJarkas/blango)
@@ -59,7 +59,7 @@ Two courses on Coursera platform to cover advanced concepts in Django framework 
 
 3- Authenticate users with Google.
 
-![](https://github.com/GhaidakJarkas/GhaidakJarkas.github.io/blob/main/images/CB1.JPG)
+![](/images/CB1.JPG)
 
 ### Advanced Django: Introduction to Django Rest Framework:
 
@@ -69,7 +69,7 @@ Two courses on Coursera platform to cover advanced concepts in Django framework 
 
 3- Add functionality with serializers, viewsets, routers, authentication, and permissions.
 
-![](https://github.com/GhaidakJarkas/GhaidakJarkas.github.io/blob/main/images/CB2.JPG)
+![](/images/CB2.JPG)
 
 
 # [Project 4: Simple TO DO app.](https://github.com/GhaidakJarkas/Simple-TODO)
@@ -80,7 +80,7 @@ Two courses on Coursera platform to cover advanced concepts in Django framework 
 
 2- Practicing CRUD.
 
-![](https://github.com/GhaidakJarkas/GhaidakJarkas.github.io/blob/main/images/todo.jpg)
+![](/images/todo.jpg)
 
 
 # [Project 5: E-Commerce website.](https://github.com/GhaidakJarkas/E-commerce)
@@ -97,4 +97,4 @@ Two courses on Coursera platform to cover advanced concepts in Django framework 
 
 5- Javascript.
 
-![](https://github.com/GhaidakJarkas/GhaidakJarkas.github.io/blob/main/images/ecommerce.jpg)
+![](/images/ecommerce.jpg)
