@@ -25,4 +25,4 @@ The first tutorial's goal was to get familiar with the fundamental concepts of D
 
 9- Pagination.
 
-![](https://github.com/GhaidakJarkas/Ghadiak_Django_Portfolio/blob/main/images/Portfolio.JPG)
+![](https://github.com/GhaidakJarkas/GhaidakJarkas.github.io/blob/main/images/Portfolio.JPG)
